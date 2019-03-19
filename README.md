@@ -11,4 +11,7 @@ Personal Solution of Algorithm Probs
 #### [3.for문 사용해보기](https://www.acmicpc.net/step/3)
 #### [4.if문 사용해보기](https://www.acmicpc.net/step/4)
 #### [5.함수 사용하기](https://www.acmicpc.net/step/5)
+#### [6.1차원 배열 사용하기](https://www.acmicpc.net/step/6)
+#### [7.문자열 사용하기](https://www.acmicpc.net/step/7)
+#### [8.규칙 찾기](https://www.acmicpc.net/step/8)
 
