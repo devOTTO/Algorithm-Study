@@ -1,4 +1,4 @@
-//15651 N과 M(4)
+//15652 N과 M(4)
 #include <iostream>
 #include <vector>
 using namespace std;
