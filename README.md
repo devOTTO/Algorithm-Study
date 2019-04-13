@@ -18,6 +18,7 @@ Personal Solution of Algorithm Probs
 ### 테마별로 풀어보기
 
 #### BFS/DFS
+- [2146](https://www.acmicpc.net/problem/2146) : 다리 만들기 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2146.cpp)
 
 #### 백트랙킹
 - [9963](https://www.acmicpc.net/problem/9963) : N-Queen = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/9963.cpp)
