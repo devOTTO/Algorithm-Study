@@ -20,8 +20,8 @@ Personal Solution of Algorithm Probs
 #### BFS/DFS
 
 #### 백트랙킹
-
-* N과 M 시리즈
+- [9963](https://www.acmicpc.net/problem/9963) : N-Queen = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/9963.cpp)
+[N과 M 시리즈]
 - [15649](https://www.acmicpc.net/problem/15649) : N과 M(1) = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/15649.cpp)
 - [15650](https://www.acmicpc.net/problem/15650) : N과 M(2) = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/15650.cpp)
 - [15651](https://www.acmicpc.net/problem/15651) : N과 M(3) = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/15651.cpp)
