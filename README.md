@@ -19,8 +19,16 @@ Personal Solution of Algorithm Probs
 
 #### BFS/DFS
 - [2146](https://www.acmicpc.net/problem/2146) : 다리 만들기 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2146.cpp)
+- [1926](https://www.acmicpc.net/problem/1926) : 그림 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1926.cpp) 
+- [2178](https://www.acmicpc.net/problem/2178) : 미로탐색 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2178.cpp) 
+- [1012](https://www.acmicpc.net/problem/1012) : 유기농 배추 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1012.cpp) 
+- [1697](https://www.acmicpc.net/problem/1697) : 유기농 배추 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1697.cpp) 
+- [7576](https://www.acmicpc.net/problem/7576) : 토마토 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/7576.cpp) 
+- [7569](https://www.acmicpc.net/problem/7569) : 토마토(3차원) = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/7569.cpp) 
+- [9466](https://www.acmicpc.net/problem/9466) : 텀 프로젝트 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/9466.cpp) 
+- [2667](https://www.acmicpc.net/problem/2667) : 단지 번호 붙이기 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2667.cpp) 
 
-#### 백트랙킹
+#### 백트랙킹/시뮬레이션
 - [9963](https://www.acmicpc.net/problem/9963) : N-Queen = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/9963.cpp)
 - [15649](https://www.acmicpc.net/problem/15649) : N과 M(1) = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/15649.cpp)
 - [15650](https://www.acmicpc.net/problem/15650) : N과 M(2) = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/15650.cpp)
