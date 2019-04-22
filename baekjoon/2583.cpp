@@ -1,6 +1,6 @@
 //
 // Created by 융미 on 2019-04-20.
-//2583
+//2583 영역 구하기
 #include <iostream>
 #include <queue>
 #include <vector>
