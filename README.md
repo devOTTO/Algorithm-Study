@@ -31,6 +31,8 @@ Personal Solution of Algorithm Probs
 - [2583](https://www.acmicpc.net/problem/2583) : 영역 구하기 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2583.cpp)
 - [7562](https://www.acmicpc.net/problem/7562) : 나이트의 이동 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/7562.cpp)
 - [10026](https://www.acmicpc.net/problem/10026) : 적록색약 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/10026.cpp)
+- [2468](https://www.acmicpc.net/problem/2468) : 안전영역 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2468.cpp)
+
 
 #### 백트랙킹/시뮬레이션
 - [9963](https://www.acmicpc.net/problem/9963) : N-Queen = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/9963.cpp)

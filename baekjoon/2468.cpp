@@ -14,7 +14,7 @@ using namespace std;
 int dx[4] = {-1,1,0,0};
 int dy[4] = {0,0,-1,1};
 
-bool check[101] = {0,}; //입력 숫자 확인 배열
+bool check[101]; //입력 숫자 확인 배열
 int arr[MAX][MAX]; //입력 배열
 int vis[MAX][MAX]; //방문 확인 배열
 vector<int> nums; //입력 높이
@@ -53,31 +53,24 @@ void printOutput()
     {
         if(check[i]) nums.push_back(i);
     }
-
-    int minh = *(min_element(nums.begin(), nums.end()));
-    int maxh = *(max_element(nums.begin(), nums.end()));
-
     int num = 0;
-
-    for(int i = minh; i<=maxh; i++)
+    for(auto v : nums)
     {
-        num = bfs(i);
-        result.push_back(num);
+       num = bfs(v);
+       result.push_back(num);
     }
-    result.push_back(1);//아예 장마가 안올 경우 생각해서 넣어주기.
 
-    cout << *(max_element(result.begin(), result.end()));
+    cout << *max_element(result.begin(), result.end());
 }
 
 int bfs(int height)
 {
     memset(vis,0,sizeof(vis));
-
-    int numb = 0;
+    int num = 0;
 
     for(int i = 0; i<n; i++)
     {
-        for(int j = 0; j < n; j++)
+        for(int j = 0; j < n;j ++)
         {
             if(arr[i][j] <= height) continue;
             if(vis[i][j]) continue;
@@ -86,7 +79,7 @@ int bfs(int height)
             q.push({i,j});
             vis[i][j] = 1;
 
-            while(!q.empty())
+            while(q.empty())
             {
                 auto cur = q.front();
                 q.pop();
@@ -97,16 +90,15 @@ int bfs(int height)
                     int ny = cur.second + dy[k];
 
                     if(nx < 0 || nx >= n || ny < 0 || ny >= n) continue;
-                    if(vis[nx][ny] || (arr[nx][ny] <= height)) continue;
+                    if(vis[nx][ny] || arr[nx][ny] <= height) continue;
 
                     q.push({nx,ny});
                     vis[nx][ny] = 1;
                 }
             }
 
-            numb++;
+            num++;
         }
     }
-
-    return numb;
+    return num;
 }
