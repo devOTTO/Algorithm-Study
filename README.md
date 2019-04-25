@@ -33,6 +33,7 @@ Personal Solution of Algorithm Probs
 - [10026](https://www.acmicpc.net/problem/10026) : 적록색약 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/10026.cpp)
 - [2468](https://www.acmicpc.net/problem/2468) : 안전영역 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2468.cpp)
 - [2573](https://www.acmicpc.net/problem/2573) : 빙산 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2573.cpp)
+- [5427](https://www.acmicpc.net/problem/5427) : 불 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/5427.cpp)
 
 
 #### 백트랙킹/시뮬레이션
