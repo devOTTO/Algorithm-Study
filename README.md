@@ -14,6 +14,12 @@ Personal Solution of Algorithm Probs
 #### [6.1차원 배열 사용하기](https://www.acmicpc.net/step/6)
 #### [7.문자열 사용하기](https://www.acmicpc.net/step/7)
 #### [8.규칙 찾기](https://www.acmicpc.net/step/8)
+#### [9.정렬해보기](https://www.acmicpc.net/step/9)
+- [2750](https://www.acmicpc.net/problem/2750) : 수 정렬하기 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2750.cpp)
+- [2751](https://www.acmicpc.net/problem/2751) : 수 정렬하기 2 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2751.cpp)
+- [10989](https://www.acmicpc.net/problem/10989) : 수 정렬하기 3 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/10989.cpp)
+- [2108](https://www.acmicpc.net/problem/2108) : 통계학 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2108.cpp)
+- [1427](https://www.acmicpc.net/problem/1427) : 소트인사이드 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1427.cpp)
 
 ### 테마별로 풀어보기
 
