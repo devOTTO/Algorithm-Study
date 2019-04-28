@@ -14,7 +14,7 @@ Personal Solution of Algorithm Probs
 #### [6.1차원 배열 사용하기](https://www.acmicpc.net/step/6)
 - [1152](https://www.acmicpc.net/problem/1152) : 단어의 개수 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1152.cpp)
 - [2577](https://www.acmicpc.net/problem/2577) : 숫자의 개수 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2577.cpp)
-- [8958](https://www.acmicpc.net/problem/8958) : OX퀴브 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/8958.cpp)
+- [8958](https://www.acmicpc.net/problem/8958) : OX퀴즈 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/8958.cpp)
 - [2920](https://www.acmicpc.net/problem/2920) : 음계 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2920.cpp)
 - [10039](https://www.acmicpc.net/problem/10039) : 평균 점수 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/10039.cpp)
 #### [7.문자열 사용하기](https://www.acmicpc.net/step/7)
