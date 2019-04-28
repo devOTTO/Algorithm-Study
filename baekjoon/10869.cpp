@@ -1,0 +1,17 @@
+//
+// Created by 융미 on 2019-04-28.
+// 10869 사칙연산
+#include <cstdio>
+int main(){
+
+    int a, b;
+
+    scanf("%d %d", &a, &b);
+    printf("%d\n", a+b);
+    printf("%d\n", a-b);
+    printf("%d\n", a*b);
+    printf("%d\n", a/b);
+    printf("%d", a%b);
+    return 0;
+}
+
