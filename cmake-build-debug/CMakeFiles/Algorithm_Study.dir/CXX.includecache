@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2573.cpp
+iostream
+-
+queue
+-
+utility
+-
+cstring
+-
+algorithm
+-
+

@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Algorithm_Study"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algorithm_Study">
+				<Option output="/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Algorithm_Study" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algorithm_Study"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Algorithm_Study/fast">
+				<Option output="/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Algorithm_Study" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.1/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 Algorithm_Study/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/yoonmee/Desktop/Algorithm-Study/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/1000.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/1001.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/10026.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/10039.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/1008.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/10172.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/10250.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/10430.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/1065.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/10718.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/10809.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/10817.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/10869.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/10871.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/10989.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/10998.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/1110.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/1152.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/1157.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/11654.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/11718.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/11719.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/11720.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/11721.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/1193.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/1316.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/1427.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/1475.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/1546.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/15552.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/15649.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/15650.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/15651.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/15652.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/15654.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/15655.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/15656.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/15657.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/15663.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/15664.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/15665.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/15666.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/1924.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2108.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2146.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2206.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2292.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2438.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2439.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2440.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2441.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2448.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2468.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2557.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2558.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2573.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2577.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2583.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2675.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2739.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2741.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2742.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2750.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2751.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2775.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2839.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2908.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2920.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/2941.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/4344.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/4673.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/5622.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/6064.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/7287.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/7562.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/8393.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/8958.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/9498.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/baekjoon/9963.cpp">
+			<Option target="Algorithm_Study"/>
+		</Unit>
+		<Unit filename="/Users/yoonmee/Desktop/Algorithm-Study/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

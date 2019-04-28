@@ -7,6 +7,10 @@ Personal Solution of Algorithm Probs
 ### 단계별로 풀어보기
 
 #### [1.입출력 받아보기](https://www.acmicpc.net/step/1)
+- [2557](https://www.acmicpc.net/problem/2557) : Hello World = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2557.cpp)
+- [7287](https://www.acmicpc.net/problem/7287) : 등록 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/7287.cpp)
+- [11718](https://www.acmicpc.net/problem/11718) : 그대로 출력하기 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/11718.cpp)
+- [11719](https://www.acmicpc.net/problem/11719) : 그대로 출력하기 2 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/11719.cpp)
 #### [2.사칙연산 도전하기](https://www.acmicpc.net/step/2)
 - [1000](https://www.acmicpc.net/problem/1000) : A+B = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1000.cpp)
 - [1001](https://www.acmicpc.net/problem/1001) : A-B = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1001.cpp)
