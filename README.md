@@ -96,6 +96,7 @@ Personal Solution of Algorithm Probs
 - [2468](https://www.acmicpc.net/problem/2468) : 안전영역 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2468.cpp)
 - [2573](https://www.acmicpc.net/problem/2573) : 빙산 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2573.cpp)
 - [5427](https://www.acmicpc.net/problem/5427) : 불 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/5427.cpp)
+- [5014](https://www.acmicpc.net/problem/5427) : 스타트링크 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/5014.cpp)
 
 #### 백트랙킹/시뮬레이션
 - [9963](https://www.acmicpc.net/problem/9963) : N-Queen = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/9963.cpp)
