@@ -84,7 +84,7 @@ Personal Solution of Algorithm Probs
 - [1926](https://www.acmicpc.net/problem/1926) : 그림 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1926.cpp) 
 - [2178](https://www.acmicpc.net/problem/2178) : 미로탐색 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2178.cpp) 
 - [1012](https://www.acmicpc.net/problem/1012) : 유기농 배추 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1012.cpp) 
-- [1697](https://www.acmicpc.net/problem/1697) : 유기농 배추 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1697.cpp) 
+- [1697](https://www.acmicpc.net/problem/1697) : 숨바꼭질 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1697.cpp) 
 - [7576](https://www.acmicpc.net/problem/7576) : 토마토 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/7576.cpp) 
 - [7569](https://www.acmicpc.net/problem/7569) : 토마토(3차원) = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/7569.cpp) 
 - [9466](https://www.acmicpc.net/problem/9466) : 텀 프로젝트 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/9466.cpp) 
