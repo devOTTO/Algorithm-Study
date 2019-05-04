@@ -23,8 +23,9 @@ Personal Solution of Algorithm Probs
 - [2468](https://www.acmicpc.net/problem/2468) : 안전영역 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2468.cpp)
 - [2573](https://www.acmicpc.net/problem/2573) : 빙산 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2573.cpp)
 - [5427](https://www.acmicpc.net/problem/5427) : 불 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/5427.cpp)
-- [5014](https://www.acmicpc.net/problem/5427) : 스타트링크 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/5014.cpp)
-- [6593](https://www.acmicpc.net/problem/5427) : 상범빌딩 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/6593.cpp)
+- [5014](https://www.acmicpc.net/problem/5014) : 스타트링크 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/5014.cpp)
+- [6593](https://www.acmicpc.net/problem/6593) : 상범빌딩 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/6593.cpp)
+- [13549](https://www.acmicpc.net/problem/13549) : 숨바꼭질 3 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/13549.cpp) [풀이2](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/13549_2.cpp)
 
 #### 백트랙킹/시뮬레이션
 - [9963](https://www.acmicpc.net/problem/9963) : N-Queen = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/9963.cpp)
