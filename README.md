@@ -25,7 +25,8 @@ Personal Solution of Algorithm Probs
 - [5427](https://www.acmicpc.net/problem/5427) : 불 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/5427.cpp)
 - [5014](https://www.acmicpc.net/problem/5014) : 스타트링크 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/5014.cpp)
 - [6593](https://www.acmicpc.net/problem/6593) : 상범빌딩 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/6593.cpp)
-- [13549](https://www.acmicpc.net/problem/13549) : 숨바꼭질 3 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/13549.cpp) [풀이2](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/13549_2.cpp)
+- [13549](https://www.acmicpc.net/problem/13549) : 숨바꼭질 3 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/13549.cpp) / [풀이2](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/13549_2.cpp)
+- [13913](https://www.acmicpc.net/problem/13913) : 숨바꼭질 4 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/13913.cpp) 
 
 #### 백트랙킹/시뮬레이션
 - [9963](https://www.acmicpc.net/problem/9963) : N-Queen = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/9963.cpp)
