@@ -122,3 +122,4 @@ Personal Solution of Algorithm Probs
 - [1427](https://www.acmicpc.net/problem/1427) : 소트인사이드 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1427.cpp)
 #### [10.소수 구하기](https://www.acmicpc.net/step/10)
 - [1978](https://www.acmicpc.net/problem/1978) : 소수 찾기 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1978.cpp)
+- [2581](https://www.acmicpc.net/problem/2581) : 소수 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2581.cpp)
