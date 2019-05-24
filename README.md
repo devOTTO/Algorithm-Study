@@ -124,3 +124,4 @@ Personal Solution of Algorithm Probs
 - [1978](https://www.acmicpc.net/problem/1978) : 소수 찾기 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1978.cpp)
 - [2581](https://www.acmicpc.net/problem/2581) : 소수 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2581.cpp)
 - [1929](https://www.acmicpc.net/problem/1929) : 소수 구하기 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1929.cpp)
+- [4948](https://www.acmicpc.net/problem/4948) : 베르트랑 공준 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/4948.cpp)
