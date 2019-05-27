@@ -120,6 +120,7 @@ Personal Solution of Algorithm Probs
 - [10989](https://www.acmicpc.net/problem/10989) : 수 정렬하기 3 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/10989.cpp)
 - [2108](https://www.acmicpc.net/problem/2108) : 통계학 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2108.cpp)
 - [1427](https://www.acmicpc.net/problem/1427) : 소트인사이드 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1427.cpp)
+- [1181](https://www.acmicpc.net/problem/1181) : 단어 정렬 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1181.cpp)
 #### [10.소수 구하기](https://www.acmicpc.net/step/10)
 - [1978](https://www.acmicpc.net/problem/1978) : 소수 찾기 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/1978.cpp)
 - [2581](https://www.acmicpc.net/problem/2581) : 소수 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/baekjoon/2581.cpp)
