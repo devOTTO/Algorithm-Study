@@ -2,6 +2,15 @@
 Personal Solution of Algorithm Probs
 개인적인 알고리즘 문제 풀이
 
+
+## [SW Expert Academy](https://swexpertacademy.com/main/main.do)
+
+### 모의 SW 역량테스트
+- [2382](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl) : 미생물 격리 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/swea/2382.cpp)
+- [2117](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu) : 홈 방범 서비스 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/swea/2117.cpp)
+- [1953](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) : 탈주범 검거 = [풀이](https://github.com/devOTTO/Algorithm-Study/blob/master/swea/1953.cpp)
+
+
 ## [백준 온라인 저지](https://www.acmicpc.net/)
 
 ### 테마별로 풀어보기
